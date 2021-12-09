@@ -1,0 +1,31 @@
+create final survey                                     done
+add questionnaire                                       done
+add search experiment unaltered                         done
+alter search experiment
+    rename all sounds                                   done
+    upload all sounds                                   done
+    add all sounds                                      done
+    change search-table
+        write python script                             done
+        change the file                                 done
+        upload the file                                 done
+    change the task
+        play sound at the beginning                     done
+
+
+cleanup the experiment
+    add the question for remembering words              done
+    remove the information screens                      not doing
+    add information screens                             not doing
+    align the window in center                          can't
+    stimuli exclusion                                   
+        make exactly 56 sitmuli combinations used       done
+        in both experiments                             done
+    redistribute all sounds to be played.
+        Choose nine.
+        re-run the script to assign sounds
+        create accurate final questionnaire
+
+
+
+    fix internal variable and calculation shit to be saved instead of having to be processed later
