@@ -2,8 +2,8 @@
 Course Project for Intro to Psychology
 
 ### Authors 
-Allen Jojo Antony  
 Abrar Ahmed
+Allen Jojo Antony  
 
 ### Instructors
 Priyanka Srivastava
