@@ -1,0 +1,112 @@
+version: 2.5.2
+server-time: 2018-11-27-11-12
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/70.0.3538.102 safari/537.36
+screen_width: 1920
+screen_height: 1080
+html_width: 1841
+html_height: 1044
+user_time: Tue, 27 Nov 2018 10:12:07 GMT
+T: 1919848
+l: adhd_message
+stime: 2018-11-27-11-12
+T: 7064
+t: info
+l: ADHD_1
+stime: 2018-11-27-11-12
+T: 34292
+t: scale
+a: 2
+s: 2
+a: 3
+s: 3
+a: 3
+s: 3
+a: 4
+s: 4
+a: 5
+s: 5
+a: 2
+s: 2
+l: ADHD_2
+stime: 2018-11-27-11-14
+T: 80967
+t: scale
+a: 2
+s: 2
+a: 2
+s: 2
+a: 1
+s: 1
+a: 3
+s: 3
+a: 5
+s: 5
+a: 1
+s: 1
+a: 3
+s: 3
+a: 2
+s: 2
+a: 3
+s: 3
+a: 2
+s: 2
+a: 3
+s: 3
+a: 3
+s: 3
+l: ex1_message
+stime: 2018-11-27-11-14
+T: 13737
+t: info
+l: experiment_1
+stime: 2018-11-27-11-19
+T: 304570
+t: experiment
+l: ex2_message1
+stime: 2018-11-27-11-21
+T: 97279
+t: info
+l: experiment_2
+stime: 2018-11-27-11-25
+T: 268491
+t: experiment
+l: remember
+stime: 2018-11-27-11-26
+T: 41744
+t: check
+a: complete
+a: concrete
+a: 
+a: 
+a: 
+a: 
+a: jacket
+a: mistake
+a: mustard
+a: 
+a: rocket
+a: 
+a: temper
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+l: completion
+stime: 2018-11-27-11-26
+T: 6121
+t: radio
+a: 1
+endcode: 
+end 2018-11-27-11-26

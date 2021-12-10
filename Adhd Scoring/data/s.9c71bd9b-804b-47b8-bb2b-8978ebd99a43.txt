@@ -1,0 +1,112 @@
+version: 2.5.2
+server-time: 2018-11-27-10-08
+user_agent: mozilla/5.0 (x11; ubuntu; linux x86_64; rv:63.0) gecko/20100101 firefox/63.0
+screen_width: 1184
+screen_height: 666
+html_width: 1149
+html_height: 1034
+user_time: Tue, 27 Nov 2018 09:08:31 GMT
+T: 110288
+l: adhd_message
+stime: 2018-11-27-10-08
+T: 6427
+t: info
+l: ADHD_1
+stime: 2018-11-27-10-09
+T: 55757
+t: scale
+a: 2
+s: 2
+a: 3
+s: 3
+a: 1
+s: 1
+a: 4
+s: 4
+a: 5
+s: 5
+a: 3
+s: 3
+l: ADHD_2
+stime: 2018-11-27-10-11
+T: 105234
+t: scale
+a: 4
+s: 4
+a: 3
+s: 3
+a: 1
+s: 1
+a: 2
+s: 2
+a: 3
+s: 3
+a: 2
+s: 2
+a: 3
+s: 3
+a: 2
+s: 2
+a: 2
+s: 2
+a: 2
+s: 2
+a: 3
+s: 3
+a: 3
+s: 3
+l: ex1_message
+stime: 2018-11-27-10-11
+T: 25097
+t: info
+l: experiment_1
+stime: 2018-11-27-10-15
+T: 246706
+t: experiment
+l: ex2_message1
+stime: 2018-11-27-10-16
+T: 15137
+t: info
+l: experiment_2
+stime: 2018-11-27-10-20
+T: 258859
+t: experiment
+l: remember
+stime: 2018-11-27-10-21
+T: 59032
+t: check
+a: 
+a: 
+a: enjoy
+a: 
+a: handle
+a: 
+a: 
+a: mistake
+a: 
+a: 
+a: 
+a: 
+a: temper
+a: valley
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+l: completion
+stime: 2018-11-27-10-21
+T: 5121
+t: radio
+a: 1
+endcode: 
+end 2018-11-27-10-21

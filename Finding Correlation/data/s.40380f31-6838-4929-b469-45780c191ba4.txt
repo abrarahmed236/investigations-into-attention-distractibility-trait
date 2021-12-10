@@ -1,0 +1,112 @@
+version: 2.5.2
+server-time: 2018-11-27-08-57
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_13_6) applewebkit/537.36 (khtml, like gecko) chrome/70.0.3538.110 safari/537.36
+screen_width: 1440
+screen_height: 900
+html_width: 1440
+html_height: 1039
+user_time: Tue, 27 Nov 2018 07:57:45 GMT
+T: 37703
+l: adhd_message
+stime: 2018-11-27-08-57
+T: 14821
+t: info
+l: ADHD_1
+stime: 2018-11-27-08-58
+T: 45491
+t: scale
+a: 1
+s: 1
+a: 2
+s: 2
+a: 2
+s: 2
+a: 3
+s: 3
+a: 3
+s: 3
+a: 3
+s: 3
+l: ADHD_2
+stime: 2018-11-27-08-59
+T: 61607
+t: scale
+a: 3
+s: 3
+a: 3
+s: 3
+a: 2
+s: 2
+a: 2
+s: 2
+a: 3
+s: 3
+a: 1
+s: 1
+a: 3
+s: 3
+a: 2
+s: 2
+a: 3
+s: 3
+a: 3
+s: 3
+a: 2
+s: 2
+a: 2
+s: 2
+l: ex1_message
+stime: 2018-11-27-08-59
+T: 12899
+t: info
+l: experiment_1
+stime: 2018-11-27-09-04
+T: 292319
+t: experiment
+l: ex2_message1
+stime: 2018-11-27-09-04
+T: 4146
+t: info
+l: experiment_2
+stime: 2018-11-27-09-09
+T: 295658
+t: experiment
+l: remember
+stime: 2018-11-27-09-10
+T: 46233
+t: check
+a: 
+a: 
+a: 
+a: farmer
+a: 
+a: 
+a: jacket
+a: 
+a: 
+a: 
+a: rocket
+a: target
+a: temper
+a: valley
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+l: completion
+stime: 2018-11-27-09-10
+T: 16466
+t: radio
+a: 1
+endcode: 
+end 2018-11-27-09-10

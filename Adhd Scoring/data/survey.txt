@@ -1,0 +1,96 @@
+# check the large survey-library for ready-to-run examples you can
+# cut and paste here
+
+# ask the participants if they were undisturbed during the experiment at the end of it
+
+scale: frequency
+- Never
+- Rarely
+- Some times
+- Often
+- Very Often
+
+l: adhd_message
+t: info
+q: Please answer the questions in the next two sections, rating yourself on each of the criteria shown using the scale on the right side of the page. As you answer each question, click on the box that best describes how you have felt and conducted yourself over the past 6 months.
+
+l: ADHD_1
+t: scale frequency
+q: Please answer the following.
+- How often do you have trouble wrapping up the final details of a project, once the challenging parts have been done?	
+- How often do you have difficulty getting things in order when you have to do a task that requires organization?	
+- How often do you have problems remembering appointments or obligations?	
+- When you have a task that requires a lot of thought, how often do you avoid or delay getting started?
+- How often do you fidget or squirm with your hands or feet when you have to sit down for a long time?
+- How often do you feel overly active and compelled to do things, like you were driven by a motor?
+
+l: ADHD_2
+t: scale frequency
+q: Please answer the following.
+- How often do you make careless mistakes when you have to work on a boring or difficult project?
+- How often do you have difficulty keeping your attention when you are doing boring or repetitive work?
+- How often do you have difficulty concentrating on what people say to you, even when they are speaking to you directly?
+- How often do you misplace or have difficulty finding things at home or at work?
+- How often are you distracted by activity or noise around you?
+- How often do you leave your seat in meetings or other situations in which you are expected to remain seated?
+- How often do you feel restless or fidgety?
+- How often do you have difficulty unwinding and relaxing when you have time to yourself?
+- How often do you find yourself talking too much when you are in social situations?
+- When you’re in a conversation, how often do you find yourself finishing the sentences of the people you are talking to, before they can finish them themselves?
+- How often do you have difficulty waiting your turn in situations when turn taking is required?
+- How often do you interrupt others when they are busy?
+
+l: ex1_message
+t: info
+q: Following is an experiment in which you need to look for an orange upright 'T' among orange and blue inverted 'T's. Press the space bar if you see one, else do nothing and wait.
+
+l: experiment_1
+t: experiment
+- {fullscreen} search_1
+
+l: ex2_message1
+t: info
+q: Following is a similar experiment. You will again be looking for an upright orange 'T'. In this experiment you will be provided with sound files to distract you from the task.Your task is to ignore the words and just concentrate on finding the orange 'T'.
+
+l: experiment_2
+t: experiment
+- {fullscreen} search_2
+
+l: remember
+t: check
+o: random
+q: which of the following words do you remember ?
+- complete
+- concrete
+- enjoy
+- farmer
+- handle
+- hopeless
+- jacket
+- mistake
+- mustard 
+- number
+- rocket
+- target
+- temper
+- valley
+- awful
+- cattle
+- chicken
+- direct
+- dinner
+- explain
+- habit
+- lumber
+- marble
+- magic
+- puppet
+- prepare
+- thursday
+- whistle
+
+l: completion
+t: radio
+q: Were you undisturbed during the survey and did you complete all items ?
+- Yes
+- No
