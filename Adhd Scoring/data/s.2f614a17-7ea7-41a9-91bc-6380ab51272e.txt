@@ -1,0 +1,112 @@
+version: 2.5.2
+server-time: 2018-11-27-09-51
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_14_1) applewebkit/537.36 (khtml, like gecko) chrome/70.0.3538.102 safari/537.36
+screen_width: 1920
+screen_height: 1080
+html_width: 1920
+html_height: 1039
+user_time: Tue, 27 Nov 2018 08:51:19 GMT
+T: 111966
+l: adhd_message
+stime: 2018-11-27-09-51
+T: 18880
+t: info
+l: ADHD_1
+stime: 2018-11-27-09-52
+T: 50523
+t: scale
+a: 4
+s: 4
+a: 3
+s: 3
+a: 1
+s: 1
+a: 5
+s: 5
+a: 4
+s: 4
+a: 5
+s: 5
+l: ADHD_2
+stime: 2018-11-27-09-53
+T: 78580
+t: scale
+a: 4
+s: 4
+a: 3
+s: 3
+a: 1
+s: 1
+a: 2
+s: 2
+a: 1
+s: 1
+a: 1
+s: 1
+a: 3
+s: 3
+a: 3
+s: 3
+a: 1
+s: 1
+a: 1
+s: 1
+a: 1
+s: 1
+a: 4
+s: 4
+l: ex1_message
+stime: 2018-11-27-09-54
+T: 11585
+t: info
+l: experiment_1
+stime: 2018-11-27-09-58
+T: 260566
+t: experiment
+l: ex2_message1
+stime: 2018-11-27-09-58
+T: 12637
+t: info
+l: experiment_2
+stime: 2018-11-27-10-02
+T: 249338
+t: experiment
+l: remember
+stime: 2018-11-27-10-03
+T: 35664
+t: check
+a: 
+a: concrete
+a: 
+a: farmer
+a: 
+a: 
+a: jacket
+a: 
+a: 
+a: number
+a: rocket
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+l: completion
+stime: 2018-11-27-10-03
+T: 8496
+t: radio
+a: 1
+endcode: 
+end 2018-11-27-10-03

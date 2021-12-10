@@ -1,0 +1,112 @@
+version: 2.5.2
+server-time: 2018-11-27-10-49
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/70.0.3538.77 safari/537.36
+screen_width: 1920
+screen_height: 1080
+html_width: 1838
+html_height: 1044
+user_time: Tue, 27 Nov 2018 09:48:54 GMT
+T: 42532
+l: adhd_message
+stime: 2018-11-27-10-49
+T: 16679
+t: info
+l: ADHD_1
+stime: 2018-11-27-10-50
+T: 75357
+t: scale
+a: 4
+s: 4
+a: 2
+s: 2
+a: 3
+s: 3
+a: 4
+s: 4
+a: 4
+s: 4
+a: 5
+s: 5
+l: ADHD_2
+stime: 2018-11-27-10-52
+T: 114430
+t: scale
+a: 3
+s: 3
+a: 4
+s: 4
+a: 2
+s: 2
+a: 3
+s: 3
+a: 3
+s: 3
+a: 1
+s: 1
+a: 3
+s: 3
+a: 2
+s: 2
+a: 4
+s: 4
+a: 2
+s: 2
+a: 1
+s: 1
+a: 3
+s: 3
+l: ex1_message
+stime: 2018-11-27-10-52
+T: 21790
+t: info
+l: experiment_1
+stime: 2018-11-27-10-59
+T: 405070
+t: experiment
+l: ex2_message1
+stime: 2018-11-27-11-00
+T: 27723
+t: info
+l: experiment_2
+stime: 2018-11-27-11-04
+T: 250477
+t: experiment
+l: remember
+stime: 2018-11-27-11-05
+T: 53303
+t: check
+a: 
+a: 
+a: 
+a: farmer
+a: 
+a: hopeless
+a: 
+a: mistake
+a: 
+a: number
+a: 
+a: target
+a: temper
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+a: 
+l: completion
+stime: 2018-11-27-11-05
+T: 7330
+t: radio
+a: 1
+endcode: 
+end 2018-11-27-11-05
