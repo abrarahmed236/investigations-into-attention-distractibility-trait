@@ -7,38 +7,38 @@
 # Old
 
 ## Final Survey
-- [x] create final survey                                     done
-- [x] add questionnaire                                       done
-- [x] add search experiment unaltered                         done
+- [x] create final survey
+- [x] add questionnaire
+- [x] add search experiment unaltered
 - [x] alter search experiment
-    - [x] rename all sounds                                   done
-    - [x] upload all sounds                                   done
-    - [x] add all sounds                                      done
+    - [x] rename all sounds
+    - [x] upload all sounds
+    - [x] add all sounds
     - [x] change search-table
-        - [x] write python script                             done
-        - [x] change the file                                 done
-        - [x] upload the file                                 done
+        - [x] write python script
+        - [x] change the file
+        - [x] upload the file
     - [x] change the task
-        - [x] play sound at the beginning                     done
+        - [x] play sound at the beginning
 
 ## Cleanup
 - [x] cleanup the experiment
-    - [x] add the question for remembering words              done
-    - [ ] remove the information screens                      not doing
-    - [ ] add information screens                             not doing
-    - [ ] align the window in center                          can't
+    - [x] add the question for remembering words
+    - [ ] ~~remove the information screens~~
+    - [ ] ~~add information screens~~
+    - [ ] ~~align the window in center~~*can't*
     - [x] stimuli exclusion
-        - [x] make exactly 56 sitmuli combinations used       done
-        - [x] in both experiments                             done
+        - [x] make exactly 56 sitmuli combinations used
+        - [x] in both experiments
     - [x] redistribute all sounds to be played.
-        - [x] Choose nine.                                    done
-        - [x] add these nine to experiment 2                  done
-        - [x] re-run the script to assign sounds              done
-        - [x] randmoize the playback reasonably               done
-        - [ ] check if the table is good                      not doing
-        - [x] create accurate final questionnaire             done
+        - [x] Choose nine.
+        - [x] add these nine to experiment 2
+        - [x] re-run the script to assign sounds
+        - [x] randmoize the playback reasonably
+        - [ ] ~~check if the table is good~~
+        - [x] create accurate final questionnaire
         
 ## Allen Dry Run
 - [x] ask allen to run the experiment once properly
-    - [x] fix to 18 items					done
-    - [ ] intenal calculations				not doing
+    - [x] fix to 18 items
+    - [ ] ~~intenal calculations~~
