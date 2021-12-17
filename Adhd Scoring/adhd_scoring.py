@@ -6,11 +6,11 @@ def correlation(x, y):
 
     # x = recalls (repeat for x = f1)
     # y = adhd_scores
-    # both need to be dictionaries with key as participant name
+    # both need to be dictionaries with key as participant id
+    # need to check if participant name is here by mistake.
 
     if(len(x)!= len(y)):
-        print("error, fuck off!! this wasn't supposed to happen, you suck")
-        print("get your shit together you teaspoon!!")
+        print("func correlation: error, not supposed to happen, number of recalls and scores do not match")
         exit()
 
     N = len(x)

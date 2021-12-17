@@ -1,1 +1,1 @@
-# Collection of Sound Files to be used as secondary distractors in the experiment
+# Collection of Sound Files originally meant to be used as secondary distractors in the experiment
